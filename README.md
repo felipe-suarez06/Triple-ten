@@ -12,3 +12,15 @@ proyectos creados durante el bootcamp
 
 - 🔗 Links o Imágenes y gráficos
 https://github.com/felipe-suarez06/Triple-ten/blob/main/S5_ladb_mobility_economy_project_student_(2).ipynb
+
+# **Proyecto 2**
+
+**Título:** Análisis de embudo y retención para MercadoLibre
+
+- **Problema:** La necesidad de visualizar el comportamiento de los usuarios en el embudo de ventas para reducir el abandono.
+- **Qué hice:** Transformé tablas de datos mediante SQL en visualizaciones claras para stakeholders.
+- **Resultado o aprendizaje:** Logré identificar puntos críticos de fuga de usuarios en el proceso de compra.
+- **Stack:** SQL, Visualización de Datos.
+- **🔗 Links o Imágenes y gráficos**
+
+       https://docs.google.com/spreadsheets/d/1nGunmNKWLDC1daUwYLht8t8UxHo1m7MN/edit?usp=sharing&ouid=112434991501007046313&rtpof=true&sd=true
